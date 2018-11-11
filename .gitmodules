@@ -1,0 +1,6 @@
+[submodule "mylogutil"]
+	path = mylogutil
+	url = https://3hdeng@github.com/3hdeng/mylogutil.git
+[submodule "mylogutil.tests"]
+	path = mylogutil.tests
+	url = https://3hdeng@github.com/3hdeng/mylogutil.tests.git
